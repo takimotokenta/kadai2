@@ -153,7 +153,7 @@ address {
   margin-right: 25px;
   float: left;
 }
-/* table {
+table {
 	border-collapse: collapse;
 }
 caption {
@@ -174,7 +174,7 @@ table tr th:first-child {
 }
 table tbody tr:nth-child(even) {
 	background-color: #f4f2f0;
-} */
+} 
 .gallery_box {
   overflow: hidden;
 }
